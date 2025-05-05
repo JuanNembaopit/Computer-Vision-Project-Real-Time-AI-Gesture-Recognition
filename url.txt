@@ -1,0 +1,21 @@
+Graded Challange 7
+
+Juan Nembaopit
+
+rmt-040
+
+
+URL Dataset:
+https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors
+
+
+URL Model:
+- keras: 
+https://drive.google.com/file/d/1eJX9rVepAlTbWdMR4syf-Kmo-mw-35X0/view?usp=sharing
+
+- h5:
+https://drive.google.com/file/d/1M0Tvsj5E3xYZAcrokDXw_umkAyc1X9Zf/view?usp=sharing
+
+
+URL Deployment:
+https://huggingface.co/spaces/juannembaopit/rockpaperscissors
